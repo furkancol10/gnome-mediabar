@@ -1,0 +1,9 @@
+.mediabar-box { spacing: 2px; }
+.mediabar-btn { padding: 0 6px; border-radius: 8px; }
+.mediabar-btn:hover { background-color: rgba(255,255,255,0.15); }
+.mediabar-title { width: 120px; margin: 0 8px; }
+.mediabar-art { width: 22px; height: 22px; margin-right: 4px; border-radius: 4px; background-size: cover; background-color: rgba(255,255,255,0.1); }
+.mediabar-track { height: 3px; margin: 0 6px 2px 6px; border-radius: 2px; background-color: rgba(255,255,255,0.2); }
+.mediabar-fill { border-radius: 2px; background-color: #ffffff; }
+.mediabar-artist { width: 90px; margin: 0 8px 0 0; }
+.mediabar-artist-text { color: rgba(255,255,255,0.65); }

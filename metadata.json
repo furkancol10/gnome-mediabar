@@ -1,0 +1,10 @@
+{
+  "uuid": "mediabar@pcf.local",
+  "name": "Media Bar",
+  "description": "Top bar media controls (previous / play-pause / next) for any MPRIS player.",
+  "shell-version": [
+    "50"
+  ],
+  "version": 1,
+  "url": "https://github.com/furkancol10/gnome-mediabar"
+}
